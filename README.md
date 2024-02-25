@@ -1,2 +1,2 @@
 # kumonome
-simple YouTube randon videos parser
+simple YouTube random videos parser
